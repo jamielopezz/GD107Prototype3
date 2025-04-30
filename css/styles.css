@@ -1,0 +1,52 @@
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+} 
+body {
+	background-color: #6d8c3e;
+}
+.navbar {
+	background-color: #8c3420 !important;
+}
+#mainHeader {
+	font-family: Audiowide;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+#headingContainer{
+	background-image: url("https://media.istockphoto.com/id/1492815833/photo/vintage-theatrical-clothes-in-dressing-room.jpg?s=612x612&w=0&k=20&c=NmNUraqyUHN62LrLcEhiy33OZuYDq2p1NIQOs5FllqA=");
+}
+.navbar-brand {
+	font-family: Audiowide;
+	color: white !important;
+}
+#navbarSupportedContent1 {
+	font-family: Syne Mono;
+	color: white !important;
+}
+.btn-primary {
+	font-family: Syne Mono;
+	background-color: #f25d27 !important;
+}
+label {
+	font-family: Audiowide;
+	color: white;
+}
+h2 {
+	font-family: Audiowide;
+	color: white;
+}
+#bodyText {
+	font-family: Syne Mono;
+	color: white;
+}
+.carousel-item {
+	background-color: #f2a7a7;
+}
+h5 {
+	font-family: Audiowide;
+}
+p {
+	font-family: Syne Mono;
+}
