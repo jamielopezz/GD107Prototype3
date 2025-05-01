@@ -5,17 +5,20 @@
 } 
 body {
 	background-color: #6d8c3e;
+	background-image: url(https://static.vecteezy.com/system/resources/previews/045/896/087/non_2x/abstract-y2k-wallpaper-iridescent-gradient-mesh-gradient-background-vector.jpg)
 }
 .navbar {
-	background-color: #8c3420 !important;
+	background-color: #F25EBF !important;
 }
 #mainHeader {
 	font-family: Audiowide;
 	color: white;
 	text-shadow: 2px 2px 4px black;
+	font-size: 70px;
 }
 #headingContainer{
-	background-image: url("https://media.istockphoto.com/id/1492815833/photo/vintage-theatrical-clothes-in-dressing-room.jpg?s=612x612&w=0&k=20&c=NmNUraqyUHN62LrLcEhiy33OZuYDq2p1NIQOs5FllqA=");
+	background-image: url("https://fashionmagazine.mblycdn.com/fm/resized/2022/09/w1200/FEATURE_Y2KBody_1022.jpg");
+	height: 100%;
 }
 .navbar-brand {
 	font-family: Audiowide;
@@ -27,7 +30,15 @@ body {
 }
 .btn-primary {
 	font-family: Syne Mono;
-	background-color: #f25d27 !important;
+	background-color: #94F2D0 !important;
+	text-shadow: none;
+	color: #565656;
+
+
+}
+.introText {
+	color: white;
+	background-color: #435726
 }
 label {
 	font-family: Audiowide;
@@ -36,17 +47,82 @@ label {
 h2 {
 	font-family: Audiowide;
 	color: white;
+	font-size: 50px;
+	text-shadow: 2px 2px 4px black;
 }
 #bodyText {
 	font-family: Syne Mono;
 	color: white;
+	
 }
 .carousel-item {
-	background-color: #f2a7a7;
+	background-color: none;
 }
 h5 {
 	font-family: Audiowide;
+	font-size: 30px;
+	text-shadow: 2px 2px 4px black;
+	background-color: #A7DDF2;
+	border-radius: 10px;
 }
 p {
 	font-family: Syne Mono;
+	font-size: 18px;
+	text-shadow: 2px 2px 4px black;
+}
+.carousel-item img {
+	object-fit: cover;
+	
+}
+.card-title {
+	color: #A7DDF2;
+	text-shadow: 2px 2px 4px black;
+	background-color: white;
+}
+.card-text {
+	text-shadow: none;
+}
+.formContainer div {
+	background-color: #F25EBF;
+	border-radius: 20px;
+	padding: 15px;
+}
+#calltoaction {
+	margin-left: 1000px;
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+}
+#myCarousel {
+	margin-top: 100px;
+}
+#emailHelp1 {
+	color: white !important;
+	opacity: 60% !important;
+}
+#submitBtn {
+	margin-left: 550px;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+}
+.display-4 {
+	font-family: Audiowide;
+}
+.lead {
+	text-shadow: 2px 2px 4px black;
+	margin-top: 20px;
+}
+.nav-link {
+	color: white !important;
+	opacity: 80%;
+}
+.jumbotron {
+	background-color: #F294D9;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+.carouselCaption {
+	background-color: #A7DDF2;
+	border-radius: 10px;
 }
