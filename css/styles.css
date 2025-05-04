@@ -22,11 +22,13 @@ body {
 }
 .navbar-brand {
 	font-family: Audiowide;
+	text-shadow: 2px 2px 4px black;
 	color: white !important;
 }
 #navbarSupportedContent1 {
 	font-family: Syne Mono;
 	color: white !important;
+	text-shadow: 2px 2px 4px black;
 }
 .btn-primary {
 	font-family: Syne Mono;
@@ -43,6 +45,7 @@ body {
 label {
 	font-family: Audiowide;
 	color: white;
+	text-shadow: 2px 2px 4px black;
 }
 h2 {
 	font-family: Audiowide;
@@ -101,6 +104,7 @@ p {
 #emailHelp1 {
 	color: white !important;
 	opacity: 60% !important;
+	text-shadow: 2px 2px 4px black;
 }
 #submitBtn {
 	margin-left: 550px;
@@ -146,6 +150,8 @@ h3 {
 	padding: 70px 0;
 	font-size: 35px;
 	text-shadow: 3px 3px 4px black;
+	background-color: #F25EBF;
+	border-radius: 20px;
 }
 #ditchFastFashion div {
 	background-color: #F294D9;
@@ -155,7 +161,7 @@ h3 {
 }
 .fastFashion {
 	margin: 40px;
-	background-color: #F294D9;
+	background-color: #F25EBF;
 	padding: 10px;
 	border-radius: 40px;
 }
