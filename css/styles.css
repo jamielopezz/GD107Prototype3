@@ -68,7 +68,7 @@ h5 {
 p {
 	font-family: Syne Mono;
 	font-size: 18px;
-	text-shadow: 2px 2px 4px black;
+	color: black;
 }
 .carousel-item img {
 	object-fit: cover;
@@ -81,11 +81,13 @@ p {
 }
 .card-text {
 	text-shadow: none;
+	color: black;
 }
 .formContainer div {
 	background-color: #F25EBF;
 	border-radius: 20px;
 	padding: 15px;
+	margin-top: 40px;
 }
 #calltoaction {
 	margin-left: 1000px;
@@ -110,7 +112,7 @@ p {
 	font-family: Audiowide;
 }
 .lead {
-	text-shadow: 2px 2px 4px black;
+	text-shadow: none;
 	margin-top: 20px;
 }
 .nav-link {
@@ -125,4 +127,35 @@ p {
 .carouselCaption {
 	background-color: #A7DDF2;
 	border-radius: 10px;
+}
+.carousel-control-next-icon {
+	background-color: #A7DDF2;
+	height: 100px;
+	width: 50px;
+}
+.carousel-control-prev-icon {
+	background-color: #A7DDF2;
+	height: 100px;
+	width: 50px;
+}
+h3 {
+	font-family: Audiowide;
+	color: white;
+	text-align: center;
+	margin: auto;
+	padding: 70px 0;
+	font-size: 35px;
+	text-shadow: 3px 3px 4px black;
+}
+#ditchFastFashion div {
+	background-color: #F294D9;
+	border-radius: 30px;
+	padding: 10px;
+	
+}
+.fastFashion {
+	margin: 40px;
+	background-color: #F294D9;
+	padding: 10px;
+	border-radius: 40px;
 }
